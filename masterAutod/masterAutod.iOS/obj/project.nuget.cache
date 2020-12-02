@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPpRKNUl7/tQklBLqZk8v9kjF2OJGDhpmh7XN4AiL9fxhefC5mCfXITnOrQ57lJFddB01ph3e21QHbmxP2i0QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\masterAutod\\masterAutod\\masterAutod.iOS\\masterAutod.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
