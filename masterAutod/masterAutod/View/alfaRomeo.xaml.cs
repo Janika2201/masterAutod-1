@@ -14,7 +14,27 @@ namespace masterAutod.View
     {
         public alfaRomeo()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+        }
+
+        private void modelAlfaRomeo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (modelAlfaRomeo.Items[modelAlfaRomeo.SelectedIndex] == "Alfa Romeo Giulia")
+            {
+                PhotosAlfaRomeo.Source = "alfaRomeoGiulia.jpg";
+            }
+            else if (modelAlfaRomeo.Items[modelAlfaRomeo.SelectedIndex] == "Alfa Romeo Stelvio")
+            {
+                PhotosAlfaRomeo.Source = "alfaRomeoStelvio.jpg";
+            }
+            else if (modelAlfaRomeo.Items[modelAlfaRomeo.SelectedIndex] == "Alfa Romeo 159")
+            {
+                PhotosAlfaRomeo.Source = "alfaRomeo159.jpg";
+            }
+            else if (modelAlfaRomeo.Items[modelAlfaRomeo.SelectedIndex] == "Alfa Romeo 4C")
+            {
+                PhotosAlfaRomeo.Source = "alfaRomeo4C.jpg";
+            }
         }
     }
 }

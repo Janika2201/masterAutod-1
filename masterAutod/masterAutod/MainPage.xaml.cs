@@ -59,6 +59,13 @@ namespace masterAutod
                 ImagePath = "fordLogo.png",
                 TargetPage = typeof(View.ford)
             });
+            list.Add(new MasterMenuItems()
+            {
+                Text = "Mercedes-Benz",
+                Detail = "Все о Mercedes-Benz",
+                ImagePath = "mercedesLogo.png",
+                TargetPage = typeof(View.mercedes)
+            });
 
             return list;
         }

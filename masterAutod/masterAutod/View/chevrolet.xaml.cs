@@ -19,7 +19,22 @@ namespace masterAutod.View
 
         private void modelChevrolet_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            if (modelChevrolet.Items[modelChevrolet.SelectedIndex] == "Chevrolet Camaro")
+            {
+                PhotosChevrolet.Source = "chevroletCamaro.jpg";
+            }
+            else if (modelChevrolet.Items[modelChevrolet.SelectedIndex] == "Chevrolet Corvette")
+            {
+                PhotosChevrolet.Source = "chevroletCorvette.jpg";
+            }
+            else if (modelChevrolet.Items[modelChevrolet.SelectedIndex] == "Chevrolet Blazer")
+            {
+                PhotosChevrolet.Source = "chevroletBlazer.jpg";
+            }
+            else if (modelChevrolet.Items[modelChevrolet.SelectedIndex] == "Chevrolet Cruze")
+            {
+                PhotosChevrolet.Source = "chevroletCruze.jpg";
+            }
         }
     }
 }

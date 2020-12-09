@@ -16,5 +16,25 @@ namespace masterAutod.View
         {
             InitializeComponent();
         }
+
+        private void modelDodge_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (modelDodge.Items[modelDodge.SelectedIndex] == "Dodge Demon")
+            {
+                PhotosDodge.Source = "dodgeDiablo.jpg";
+            }
+            else if (modelDodge.Items[modelDodge.SelectedIndex] == "Dodge Challenger")
+            {
+                PhotosDodge.Source = "dodgeChallenger.jpg";
+            }
+            else if (modelDodge.Items[modelDodge.SelectedIndex] == "Dodge Charger")
+            {
+                PhotosDodge.Source = "dodgeCharger.jpg";
+            }
+            else if (modelDodge.Items[modelDodge.SelectedIndex] == "Dodge RAM")
+            {
+                PhotosDodge.Source = "dodgeRAM.jpg";
+            }
+        }
     }
 }

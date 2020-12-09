@@ -5,13 +5,13 @@
     <ContentPage.Content>
         <StackLayout Padding="15">
             <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Chevrolet" />
-            <Image x:Name="PhotosChevrolet" Source="chevroletExorcist.jpg"/>
+            <Image x:Name="PhotosChevrolet" Source="chevroletExorcist.jpg" HeightRequest="250"/>
             <Picker x:Name="modelChevrolet" SelectedIndexChanged="modelChevrolet_SelectedIndexChanged">
                 <Picker.Items>
-                    <x:String>Bugatti Chiron</x:String>
-                    <x:String>Bugatti One Off</x:String>
-                    <x:String>Bugatti Bolide</x:String>
-                    <x:String>Bugatti Veyron</x:String>
+                    <x:String>Chevrolet Camaro</x:String>
+                    <x:String>Chevrolet Corvette</x:String>
+                    <x:String>Chevrolet Blazer</x:String>
+                    <x:String>Chevrolet Cruze</x:String>
                 </Picker.Items>
             </Picker>
         </StackLayout>

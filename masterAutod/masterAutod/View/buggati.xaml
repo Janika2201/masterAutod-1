@@ -5,7 +5,7 @@
     <ContentPage.Content>
         <StackLayout Padding="15">
             <Label VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" FontSize="Large" Text="Модели машин марки Bugatti" />
-            <Image x:Name="PhotosBugatti" Source="buggatiChiron.jpg"/>
+            <Image x:Name="PhotosBugatti" Source="buggatiChiron.jpg" HeightRequest="250"/>
             <Picker x:Name="modelBugatti" SelectedIndexChanged="modelBugatti_SelectedIndexChanged">
                 <Picker.Items>
                     <x:String>Bugatti Chiron</x:String>

@@ -17,3 +17,4 @@ C:\Users\opilane\source\repos\Jefimova\masterAutod\masterAutod\masterAutod\obj\D
 C:\Users\opilane\source\repos\Jefimova\masterAutod\masterAutod\masterAutod\obj\Debug\netstandard2.0\View\chevrolet.xaml.g.cs
 C:\Users\opilane\source\repos\Jefimova\masterAutod\masterAutod\masterAutod\obj\Debug\netstandard2.0\View\dodge.xaml.g.cs
 C:\Users\opilane\source\repos\Jefimova\masterAutod\masterAutod\masterAutod\obj\Debug\netstandard2.0\View\ford.xaml.g.cs
+C:\Users\opilane\source\repos\Jefimova\masterAutod\masterAutod\masterAutod\obj\Debug\netstandard2.0\View\mercedes.xaml.g.cs
