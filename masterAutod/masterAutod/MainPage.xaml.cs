@@ -66,6 +66,34 @@ namespace masterAutod
                 ImagePath = "mercedesLogo.png",
                 TargetPage = typeof(View.mercedes)
             });
+            list.Add(new MasterMenuItems()
+            {
+                Text = "Volkswagen",
+                Detail = "Все о Volkswagen",
+                ImagePath = "VolkswagenLogo.png",
+                TargetPage = typeof(View.Volkswagen)
+            });
+            list.Add(new MasterMenuItems()
+            {
+                Text = "Subaru",
+                Detail = "Все о Subaru",
+                ImagePath = "SubaruLogo.png",
+                TargetPage = typeof(View.Subaru)
+            });
+            list.Add(new MasterMenuItems()
+            {
+                Text = "Mercury",
+                Detail = "Все о Mercury",
+                ImagePath = "MercuryLogo.png",
+                TargetPage = typeof(View.Mercury)
+            });
+            list.Add(new MasterMenuItems()
+            {
+                Text = "Aston Martin",
+                Detail = "Все о Aston Martin",
+                ImagePath = "AstonMartinLogo.png",
+                TargetPage = typeof(View.AstonMartin)
+            });
 
             return list;
         }

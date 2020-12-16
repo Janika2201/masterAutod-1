@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "TwDSShpoTs41DB3xgi1dZzHLFwc0MGbuxN20dn2T/A9LxP5FE0SfQRQ9G/09Rzhod0sv8G9Dkq2NPwHFu/OsSw==",
+  "dgSpecHash": "iDMM8TQAywTp0XLNh+zEZRLb4dB9usBUw8kOQzLIHppmGX9fPNnmKlRRljqA/9KRxM0K6iT4AVYPvVTBv+TPJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\masterAutod\\masterAutod\\masterAutod\\masterAutod.csproj",
+  "projectFilePath": "C:\\Users\\morgo\\Source\\Repos\\masterAutod\\masterAutod\\masterAutod\\masterAutod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\morgo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\morgo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\morgo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\morgo\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\morgo\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }
